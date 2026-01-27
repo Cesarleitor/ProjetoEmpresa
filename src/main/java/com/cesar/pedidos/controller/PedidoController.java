@@ -28,6 +28,6 @@ public class PedidoController {
 
     @GetMapping("/teste")
     public String teste() {
-        return "API funcionando";
+        return "API funcionando!!";
     }
 }
