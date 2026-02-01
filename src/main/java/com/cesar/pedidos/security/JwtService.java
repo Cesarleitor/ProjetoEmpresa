@@ -7,7 +7,6 @@ import org.springframework.stereotype.Service;
 import java.time.Instant;
 import java.time.temporal.ChronoUnit;
 
-import static org.springframework.security.config.Elements.JWT;
 
 @Service
 public class JwtService {
